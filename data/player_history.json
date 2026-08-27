@@ -1,0 +1,71 @@
+{
+  "P001": [
+    {
+      "session_id": "sess001",
+      "player_id": "P001",
+      "score": 900,
+      "coins": 60,
+      "collisions": 7,
+      "average_heart_rate": 98,
+      "jump_count": 18,
+      "left_count": 22,
+      "right_count": 19,
+      "center_count": 30,
+      "lane_changes": 41
+    },
+    {
+      "session_id": "sess002",
+      "player_id": "P001",
+      "score": 1100,
+      "coins": 74,
+      "collisions": 5,
+      "average_heart_rate": 102,
+      "jump_count": 24,
+      "left_count": 26,
+      "right_count": 25,
+      "center_count": 28,
+      "lane_changes": 55
+    },
+    {
+      "session_id": "aeef054c",
+      "player_id": "P001",
+      "duration_seconds": 180,
+      "duration_minutes": 3.0,
+      "average_heart_rate": 111.1,
+      "min_heart_rate": 81,
+      "max_heart_rate": 143,
+      "start_heart_rate": 81,
+      "end_heart_rate": 99,
+      "heart_rate_increase": 62,
+      "heart_rate_recovery": 44,
+      "unusually_high_heart_rate": false,
+      "total_actions": 37,
+      "actions_per_minute": 12.3,
+      "jump_count": 12,
+      "jump_frequency_per_minute": 4.0,
+      "left_count": 12,
+      "right_count": 9,
+      "center_count": 4,
+      "lane_changes": 7,
+      "lane_change_frequency_per_minute": 2.33,
+      "score": 452,
+      "coins": 17,
+      "collisions": 0,
+      "collision_rate_per_minute": 0.0,
+      "score_per_minute": 150.7,
+      "coins_per_minute": 5.7,
+      "average_movement_intensity": 0.47,
+      "movement_intensity_label": "moderate",
+      "movement_consistency": 0.5,
+      "average_pose_confidence": 0.9,
+      "heart_rate_movement_correlation": 0.98,
+      "heart_rate_movement_correlation_label": "strong positive",
+      "high_intensity_periods": [
+        {
+          "start": "01:50",
+          "end": "02:35"
+        }
+      ]
+    }
+  ]
+}
